@@ -1,10 +1,6 @@
 # sport-metrics
 A data-driven sports analysis project featuring a predictive model in Microsoft Azure Machine Learning Studio, Python-based EDA for trend discovery, and a Power BI presentation to visualize key insights in sports performance.
 
-Here's a sample documentation for your sports analysis project:
-
----
-
 # Sports Analysis Project
 
 ## Overview
@@ -15,8 +11,7 @@ The project is organized into the following sections:
 
 ```
 ├── data/                      # Raw and processed data files (excluded in .gitignore)
-├── notebooks/                 # Jupyter notebooks for EDA and trend analysis
-├── models/                    # Saved models and machine learning artifacts
+├── colab_notebook/            # Colab notebooks for EDA and trend analysis
 ├── scripts/                   # Python scripts for data preprocessing and analysis
 ├── visuals/                   # Power BI dashboards and visualizations
 ├── requirements.txt           # Python dependencies
